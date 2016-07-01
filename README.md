@@ -6,11 +6,14 @@ Aurora is a simple theme using cool base colors with subtle warm highlights thro
 # Screenshots
 
 ### Html
-![Html Image](https://raw.githubusercontent.com/andrewcourtice/aurora-theme/master/screenshots/html.PNG)
+![Html Screenshot](https://raw.githubusercontent.com/andrewcourtice/aurora-theme/master/screenshots/html.PNG)
 
 ### Javascript
-![Html Image](https://raw.githubusercontent.com/andrewcourtice/aurora-theme/master/screenshots/javascript.PNG)
+![Javascript Screenshot](https://raw.githubusercontent.com/andrewcourtice/aurora-theme/master/screenshots/javascript.PNG)
 
-### C-Sharp
-![Html Image](https://raw.githubusercontent.com/andrewcourtice/aurora-theme/master/screenshots/c-sharp.PNG)
+### C# #
+![C-Sharp Screenshot](https://raw.githubusercontent.com/andrewcourtice/aurora-theme/master/screenshots/c-sharp.PNG)
+
+### Python
+![Python Screenshot](https://raw.githubusercontent.com/andrewcourtice/aurora-theme/master/screenshots/python.PNG)
 
