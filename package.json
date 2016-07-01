@@ -23,10 +23,8 @@
         "theme", 
         "aurora", 
         "vscode", 
-        "cool", 
         "warm", 
-        "bright", 
-        "subtle"
+        "bright"
     ],
     "contributes": {
         "themes": [
