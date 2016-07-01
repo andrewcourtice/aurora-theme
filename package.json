@@ -1,9 +1,18 @@
 {
     "name": "theme-aurora",
-    "displayName": "Aurora",
-    "description": "A simple theme based on cool colors with bright highlights",
-    "version": "1.0.0",
+    "displayName": "Aurora Theme",
+    "description": "A theme with cool base colors and subtle warm highlights",
+    "version": "1.2.0",
     "publisher": "andrewcourtice",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#869099"
+    },
+    "homepage": "https://github.com/andrewcourtice/aurora-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andrewcourtice/aurora-theme.git"
+    },
     "engines": {
         "vscode": "^1.0.0"
     },
