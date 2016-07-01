@@ -135,7 +135,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>underline</string>
+				<string></string>
 				<key>foreground</key>
 				<string>#E06B6B</string>
 			</dict>
