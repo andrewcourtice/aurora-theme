@@ -1,0 +1,2 @@
+# Description
+Aurora is a simple theme using cool base colors with subtle warm highlights throughout. This theme is designed to maintain a consistent look and feel across all languages without compromising readability.
