@@ -2,7 +2,7 @@
     "name": "theme-aurora",
     "displayName": "Aurora Theme",
     "description": "A theme with cool base colors and subtle warm highlights",
-    "version": "1.5.5",
+    "version": "1.6.0",
     "publisher": "andrewcourtice",
     "icon": "icon.png",
     "homepage": "https://github.com/andrewcourtice/aurora-theme",
@@ -10,11 +10,23 @@
         "type": "git",
         "url": "https://github.com/andrewcourtice/aurora-theme.git"
     },
+    "bugs": {
+        "url": "https://github.com/andrewcourtice/aurora-theme/issues"
+    },
     "engines": {
         "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme", 
+        "aurora", 
+        "vscode", 
+        "cool", 
+        "warm", 
+        "bright", 
+        "subtle"
     ],
     "contributes": {
         "themes": [
