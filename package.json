@@ -1,0 +1,22 @@
+{
+    "name": "theme-aurora",
+    "displayName": "Aurora",
+    "description": "A simple theme based on cool colors with bright highlights",
+    "version": "1.0.0",
+    "publisher": "andrewcourtice",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurora",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aurora.tmTheme"
+            }
+        ]
+    }
+}
